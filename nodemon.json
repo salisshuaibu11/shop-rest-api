@@ -1,0 +1,6 @@
+{
+  "env": {
+    "MONGO_USER": "node-shop",
+    "MONGO_PASSWORD": "node-shop"
+  }
+}
